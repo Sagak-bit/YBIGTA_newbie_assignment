@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./1-graph-traversal",
+        "./2-stack-queue-deque",
+        "./3-divide-and-conquer-multiplication",
+        "./4-trie",
+        "./5-segment-tree"
+    ]
+}
