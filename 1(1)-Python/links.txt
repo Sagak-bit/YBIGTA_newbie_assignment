@@ -1,17 +1,17 @@
 # 푼 문제만 기입하셔도 됩니다.
 # 형식: <문제번호> <제출 링크>
 
-1260 
+1260 http://boj.kr/9e8cac88901f412abf7ae7b767415f7a
 
-2164 
-11866 
+2164 http://boj.kr/f8330473c8c64218857d158772222613
+11866 http://boj.kr/d8880594e01d42a89d25a88df1aede6c
 
-1629 
-10830 
+1629 http://boj.kr/bc8cce320eb14b299705f72869b1cbb5
+10830 http://boj.kr/795eeb3a9eb8428fa95c8fd7ceeff7f2
 
-3080 
-5670 
+3080 http://boj.kr/7c1c4694ed1a4e6e87a3d0d19c1292bb
+5670 http://boj.kr/84a5ff7a5d304def85e3fd8ec380bf35
 
-2243 
-3653 
-17408
+2243 http://boj.kr/448616b8bdfe411796c3f4b33b8a3cab
+3653 http://boj.kr/c1c6c0f70a674cecb45657a21783f3c2
+17408 http://boj.kr/1a6f390fe1b6473c95e1b3cf5dba4dc3
